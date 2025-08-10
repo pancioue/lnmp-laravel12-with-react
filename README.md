@@ -25,5 +25,5 @@ npm run build
 
 分別訪問
 --------
-* http://localhost/
-* http://localhost:5173/
+* http://store.localhost/
+* http://store.localhost:5173/
